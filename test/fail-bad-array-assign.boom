@@ -1,0 +1,2 @@
+string[] arr = ["one", "two", "three"]
+arr[1] = 50.0

@@ -1,0 +1,5 @@
+string[] arr = ["one", "two", "three"]
+arr[1] = "newvalue"
+int i = 0
+loop i=i+1 while i<3:
+	println(arr[i])
