@@ -14,7 +14,7 @@ To compile the compiler, run "make" inside the src directory. This will produce 
 
 To run the test suite, run "make test" inside the src directory.
 
-The Boomslang compiler requires OCaml and LLVM to be installed on the compiling machine. The following Docker image can also be used: https://hub.docker.com/r/columbiasedwards/plt
+The Boomslang compiler requires OCaml and LLVM to be installed on the compiling machine.
 
 # Writing programs
 
